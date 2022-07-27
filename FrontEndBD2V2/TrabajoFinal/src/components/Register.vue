@@ -67,40 +67,33 @@
                             <div class="mb-4 md:flex md:justify-between">
                                 <div class="mb-4 md:mr-2 md:mb-0">
                                     <label class="block mb-2 text-sm font-bold text-gray-700" for="password">
-                                        Password
+                                        Contraseña
                                     </label>
                                     <input
                                         class="w-full px-3 py-2 mb-3 text-sm leading-tight text-gray-700 border rounded shadow appearance-none focus:outline-none focus:shadow-outline"
                                         id="password" type="password" placeholder="******************" />
 
-                                </div>
-                                <div class="md:ml-2">
-                                    <label class="block mb-2 text-sm font-bold text-gray-700" for="c_password">
-                                        Confirm Password
-                                    </label>
-                                    <input
-                                        class="w-full px-3 py-2 mb-3 text-sm leading-tight text-gray-700 border rounded shadow appearance-none focus:outline-none focus:shadow-outline"
-                                        id="c_password" type="password" placeholder="******************" />
-                                </div>
-                            </div>
+                                
+                           </div>
+                           </div> 
                             <div class="mb-6 text-center">
                                 <button
                                     class="w-full px-4 py-2 font-bold text-white bg-blue-500 rounded-full hover:bg-blue-700 focus:outline-none focus:shadow-outline"
                                     type="button">
-                                    Register Account
+                                    Registrate ahora!
                                 </button>
                             </div>
                             <hr class="mb-6 border-t" />
                             <div class="text-center">
                                 <a class="inline-block text-sm text-blue-500 align-baseline hover:text-blue-800"
                                     href="#">
-                                    Forgot Password?
+                                    Olvidaste tu contraseña?
                                 </a>
                             </div>
                             <div class="text-center">
                                 <a class="inline-block text-sm text-blue-500 align-baseline hover:text-blue-800"
                                     href="./index.html">
-                                    Already have an account? Login!
+                                    Ya tienes una cuenta? Ingresa!
                                 </a>
                             </div>
                         </form>
